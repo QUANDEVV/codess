@@ -1,0 +1,55 @@
+{
+  "allData": {
+    "donors": [
+      {
+        "id": 1,
+        "username": "donor1",
+        "password": "password1"
+      },
+      {
+        "id": 2,
+        "username": "donor2",
+        "password": "password2"
+      },
+      {
+        "id": 3,
+        "username": "donor3",
+        "password": "password3"
+      }
+    ],
+    "charities": [
+      {
+        "id": 1,
+        "username": "charity1",
+        "password": "password1"
+      },
+      {
+        "id": 2,
+        "username": "charity2",
+        "password": "password2"
+      },
+      {
+        "id": 3,
+        "username": "charity3",
+        "password": "password3"
+      }
+    ],
+    "admins": [
+      {
+        "id": 1,
+        "username": "admin1",
+        "password": "password1"
+      },
+      {
+        "id": 2,
+        "username": "admin2",
+        "password": "password2"
+      },
+      {
+        "id": 3,
+        "username": "admin3",
+        "password": "password3"
+      }
+    ]
+  }
+}
