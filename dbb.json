@@ -62,7 +62,7 @@
     },
     {
       "name": "Charity E",
-      "logo": "https://media.istockphoto.com/id/1351959212/photo/online-donation-charity-and-volunteering-concept-closeup-of-hand-using-a-mobile-phone-to.webp?b=1&s=170667a&w=0&k=20&c=HbdPs2Mw_jpNxwTlz8SweFQxFFIWj_r5QJpKr8Pg9LQ=",
+      "logo": "https://plus.unsplash.com/premium_photo-1678304859064-1c3901469f1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9tZWxlc3N8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
       "total_amount_donated": 3600,
       "testimonials": [
         {
@@ -105,5 +105,10 @@
         }
       ]
     }
+    
   ]
 }
+
+
+
+
