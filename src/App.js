@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Sidebar, Navbar, Search, Charity } from './components';
-import Login from './pages/Login';
-import CharityPage from './pages/CharityPage';
-import Admin from './pages/Admin';
-import Home from './pages/Home';
+import Login from './DonatePage/Login';
+import CharityPage from './CharityPage/CharityPage';
+import Admin from './AdminPage/Admin';
+import Home from './DonatePage/Home';
 
 const App = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -36,6 +36,8 @@ const App = () => {
 
             {/* Route for the CharityPage component */}
             <Route path="/Home" element={<Home />} />
+            <Route path="/login" element={<Login />} />
+
 
             <Route path="/CharityPage" element={<CharityPage />} />
 
